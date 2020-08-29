@@ -9,6 +9,7 @@
 ## Screenshots
 ![lista-revenda](https://user-images.githubusercontent.com/37453847/91640312-00ebce80-e9f3-11ea-8c8a-887c756ea362.png)
 ![loja-revenda](https://user-images.githubusercontent.com/37453847/91640330-18c35280-e9f3-11ea-9ded-75a4fff45680.png)
+![gif-animation](https://user-images.githubusercontent.com/37453847/91640364-70fa5480-e9f3-11ea-9444-eef1eaab1875.gif)
 
 
 ### Getting Started
